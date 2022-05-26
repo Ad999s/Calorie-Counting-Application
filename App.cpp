@@ -433,7 +433,7 @@ int main()
     {
         clr;
         printspace(40);
-        cout << bold_on << "Aditya Kotwal" << bold_off << endl;
+        cout << bold_on << "MyFitness Pal" << bold_off << endl;
         cout << bold_on << "(Press '1' for SignIn || '2' for SignUp || '3' for Exit)\n"
              << bold_off;
         cin >> ch;
