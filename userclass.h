@@ -51,7 +51,7 @@ public:
         // getting values
         usrname = Username;
         string pass2;
-        cout << "Enter Password for account " << usrname << " :\n";
+        cout << "Let's Setup Password for Your account:\n";
         cin >> password;
         while (password.size() < 8)
         {
