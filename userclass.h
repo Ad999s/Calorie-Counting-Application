@@ -70,7 +70,10 @@ public:
              << endl;
         cout << "First name: \n";
         cin >> fname;
-        cout << "Surname: \n";
+        clr;
+        printspace(42);
+        cout << "Hi " << fname << endl;
+        cout << "Your Surname: \n";
         cin >> surname;
         cout << "'M'for male and 'F' for female: \n";
         cin >> gender;
